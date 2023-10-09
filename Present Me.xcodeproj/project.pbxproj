@@ -12,7 +12,7 @@
 		03546F072AD29ACC008CF19A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03546F062AD29ACC008CF19A /* Assets.xcassets */; };
 		03546F0A2AD29ACC008CF19A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03546F092AD29ACC008CF19A /* Preview Assets.xcassets */; };
 		296DE53D2AD2A36D00B8FD3A /* shaden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296DE53C2AD2A36D00B8FD3A /* shaden.swift */; };
-		506F34F12AD3D3530085B8A4 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506F34F02AD3D3530085B8A4 /* SwiftUIView.swift */; };
+		506F34F12AD3D3530085B8A4 /* rimah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506F34F02AD3D3530085B8A4 /* rimah.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		03546F062AD29ACC008CF19A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03546F092AD29ACC008CF19A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		296DE53C2AD2A36D00B8FD3A /* shaden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shaden.swift; sourceTree = "<group>"; };
-		506F34F02AD3D3530085B8A4 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		506F34F02AD3D3530085B8A4 /* rimah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rimah.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 				03546F022AD29ACB008CF19A /* Present_MeApp.swift */,
 				03546F042AD29ACB008CF19A /* ContentView.swift */,
 				296DE53C2AD2A36D00B8FD3A /* shaden.swift */,
-				506F34F02AD3D3530085B8A4 /* SwiftUIView.swift */,
+				506F34F02AD3D3530085B8A4 /* rimah.swift */,
 				03546F062AD29ACC008CF19A /* Assets.xcassets */,
 				03546F082AD29ACC008CF19A /* Preview Content */,
 			);
@@ -145,7 +145,7 @@
 			files = (
 				296DE53D2AD2A36D00B8FD3A /* shaden.swift in Sources */,
 				03546F052AD29ACB008CF19A /* ContentView.swift in Sources */,
-				506F34F12AD3D3530085B8A4 /* SwiftUIView.swift in Sources */,
+				506F34F12AD3D3530085B8A4 /* rimah.swift in Sources */,
 				03546F032AD29ACB008CF19A /* Present_MeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

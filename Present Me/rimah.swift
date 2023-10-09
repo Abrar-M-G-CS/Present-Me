@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SwiftUIView: View {
+struct rimah: View {
     @ScaledMetric(relativeTo: .body) var scaledPadding: CGFloat = 10
     var body: some View {
         VStack {
@@ -46,6 +46,6 @@ struct SwiftUIView: View {
    
 struct SwiftUIView_Previews: PreviewProvider {
     static var previews: some View {
-        SwiftUIView()
+        rimah()
     }
 }
